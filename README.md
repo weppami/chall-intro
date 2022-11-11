@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [My Solution](https://www.frontendmentor.io/solutions/advice-challange-using-tailwind-css-and-alpine-js-ujnYwrQFV5)
-- Live Site URL: [Live site](https://polite-kheer-24ed87.netlify.app/)
+- Solution URL: [My Solution](https://www.frontendmentor.io/solutions/responsive-with-tailwind-and-alpine-js-XkgIY1tZ8M)
+- Live Site URL: [Live site](https://precious-arithmetic-2eed3b.netlify.app/)
 
 ## My process
 
