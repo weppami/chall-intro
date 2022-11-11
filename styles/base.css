@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+  @font-face {
+    font-family: Epilogue;
+    font-style: normal;
+    font-weight: 100 900;
+    font-display: optional;
+    src: url(../src/assets/fonts/Epilogue-VariableFont_wght.ttf) format("ttf");
+
+}
